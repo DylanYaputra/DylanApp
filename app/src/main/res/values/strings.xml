@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dylan App</string>
+    <string name="title_activity_dylan">DylanActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
